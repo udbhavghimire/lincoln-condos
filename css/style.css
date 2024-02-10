@@ -118,7 +118,7 @@
 }
 
 .imghei {
-    height: 320px !important;
+    height: 380px !important;
     object-fit: cover;
     width: 100%;
     border-radius: 15px;
@@ -163,7 +163,7 @@
 }
 
 .regoimg {
-    height: 120px;
+    height: 100px;
 }
 
 .fields {
@@ -205,5 +205,8 @@
 
     .center-sm {
         text-align: center;
+    }
+    .regoimg {
+        height: 50px;
     }
 }

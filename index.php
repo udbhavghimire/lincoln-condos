@@ -16,7 +16,7 @@
 
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
-    <title>Lincoln Tower Condo Calgary | Starting from $500s - Register Today</title>
+    <title>Lincoln Tower Condo Calgary | Starting from $400s - Register Today</title>
     <meta name="title" content="Lincoln Tower Condo Calgary | Starting from $500s - Register Today">
     <meta name="description" content="Lincoln Tower Condo Calgary, a development by Truman Homes, is an upcoming condos in Calgary, located on 11 Avenue Southwest and 2 Street Southwest. The project is expected to be completed in 2028.">
     <meta name="keywords" content="Lincoln Tower Condos, Lincoln Condos, Lincoln Tower Condo Calgary, Condos in Calgary, Lincoln Condos Truman Homes, Truman Homes">
@@ -159,7 +159,7 @@
                         <section>
                             <div class="rounded-3">
                                 <div class="d-flex justify-content-between pb-3">
-                                    <div class="row me-0 row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-4 me-0">
+                                    <div class="row me-0 row-cols-1 row-cols-sm-2 row-cols-lg-2 justify-content-center g-4 me-0">
                                         <div class="col">
                                             <div class="afte">
                                                 <img loading="lazy" src="images/lincoln_interiors_2a_noir_015.jpg" alt="Lincoln Condos" class="img-fluid imghei">
@@ -208,11 +208,11 @@
                     <h2 class="fw-bold fs-1 pb-4 ps-3 ps-md-0 d-flex justify-content-center brand-color center-sm">
                         Details About Lincoln Condos in Calgary
                     </h2>
-                    <p class="textt justify-content-center brand-color center-sm text-center pb-2 fs-3">
+                    <p class="textt justify-content-center brand-color center-sm text-center pb-2 fs-3 px-1">
                         Lincoln Tower Condos in Calgary is a brand New Pre-construction condo development by Truman Homes, Located at 11 Avenue Southwest and 2 Street Southwest in Calgary.
                     </p>
                 </div>
-                <div class="d-flex justify-content-center text-center textt fs-3">
+                <div class="d-flex justify-content-center text-center textt fs-3 px-1">
                     <div class="list d-block ">
                     <p class="mybot pb-md-0 pb-0 ">
                             <span class="fw-bold">Developer:</span> Truman Homes.
@@ -347,7 +347,7 @@
        <div style="padding: 0; margin: 0; border: 0; outline: 0; width: 300px; border: 1px solid #999;"> <div style="border:0;outline:0;padding:0; margin: 11px 9px 0;"><h2 style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; text-decoration: none; vertical-align: baseline; font-style: normal; background: none; text-align: left; font:15px/19px 'Arial Black', Gadget, sans-serif; font-weight: normal; color: #222;"> </h2><h3 style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; text-decoration: none; vertical-align: baseline; font-style: normal; background: none; text-align: left; font:12px/14px Verdana, Arial, Helvetica, sans-serif; font-weight: bold; color: #666; margin: 2px 0 4px 0;"> Walker&rsquo;s Paradise </h3> <div style="padding: 0; margin: 0; border: 0; outline: 0; position: relative; width: 100%; padding-bottom: 30%"> <div style="padding: 0; margin: 0; border: 0; outline: 0; position: absolute; top: 0; bottom: 0; left: 0; right: 0;"> <a rel="nofollow" href="https://www.walkscore.com/score/-Calgary--CA.dash.AB-T2R-0C3?utm_source=badge&utm_medium=responsive&utm_campaign=badge"><!--[if lte IE 8]><img src="//pp.walk.sc/badge/walk/-Calgary--CA.dash.AB-T2R-0C3.png" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Walk Score of this location"><![endif]--> <!--[if gt IE 8]><img src="//pp.walk.sc/badge/walk/-Calgary--CA.dash.AB-T2R-0C3.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Walk Score of this location"><![endif]--> <!--[if !IE]> <!-- --><img src="//pp.walk.sc/badge/walk/-Calgary--CA.dash.AB-T2R-0C3.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Walk Score of this location"><!-- <![endif]--><!--[if lte IE 8]><img src="//pp.walk.sc/badge/transit/-Calgary--CA.dash.AB-T2R-0C3.png" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Transit Score of this location"><![endif]--> <!--[if gt IE 8]><img src="//pp.walk.sc/badge/transit/-Calgary--CA.dash.AB-T2R-0C3.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Transit Score of this location"><![endif]--> <!--[if !IE]> <!-- --><img src="//pp.walk.sc/badge/transit/-Calgary--CA.dash.AB-T2R-0C3.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Transit Score of this location"><!-- <![endif]--><!--[if lte IE 8]><img src="//pp.walk.sc/badge/bike/-Calgary--CA.dash.AB-T2R-0C3.png" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Bike Score of this location"><![endif]--> <!--[if gt IE 8]><img src="//pp.walk.sc/badge/bike/-Calgary--CA.dash.AB-T2R-0C3.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Bike Score of this location"><![endif]--> <!--[if !IE]> <!-- --><img src="//pp.walk.sc/badge/bike/-Calgary--CA.dash.AB-T2R-0C3.svg" style='border-radius: 0; box-shadow: none; outline: 0; color: transparent; margin: 0 0 0 2.000000%; float: left; padding: 0; width: 30.666667%; background: none; border: 0;'alt="Bike Score of this location"><!-- <![endif]--></a></div> </div><p style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; color: #999; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 13px; clear:both; padding: 8px 0;"><a rel="nofollow" style="text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 0; margin: 0; border: 0; outline: 0; text-decoration: none; vertical-align: baseline; font-style: normal; background: none; text-align: left; color: #999; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 13px;" target="_blank" href="https://www.walkscore.com/CA-AB/Calgary/Beltline?utm_source=badge&utm_medium=responsive&utm_campaign=badge">Explore Beltline on Walk Score</a><img style="visibility: hidden;" width=1 height=1 src="https://www.redfin.com/rift?ev=external_web&p=walkscore&s=score_badge&a=impression" /> </p></div></div>
         </div>
         <div class="pt-4 ">
-        <span class="small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-3">(Lincoln Tower Condo Calgary) 
+        <span class="small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-3 px-2 ">(Lincoln Tower Condo Calgary) 
         11th Ave and 2nd Street, Calgary has a Walk Score of 98 out of 100. This location is a Walker’s Paradise so daily errands do not require a car.
 
 This location is a 10 minute walk from the 201 Red Line - Somerset - Bridlewood/Tuscany CTrain and the 202 Blue Line - Saddletowne/69 Street CTrain at the EB 3 Street SW Station (TD Free Fare Zone) stop.
@@ -451,14 +451,14 @@ This location is in the Beltline neighborhood in Calgary. Nearby parks include C
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                     <div class="col-md-5 my-3  center-sm px-4 px-md-0">
                         <p class=" ">
-                            <h1 class="navbar-brand-foot fs-4 "><a href="https://homebaba.ca/niagara/joy-towns" target="_blank" class = "text-dark text-decoration-none">Lincoln Condos</a></h1>
+                            <h1 class="navbar-brand-foot fs-4 "><a href="https://homebaba.ca/calgary/lincoln-tower-condos" target="_blank" class = "text-dark text-decoration-none">Lincoln Condos</a></h1>
                         </p>
                         <span class="sm-text justifyy text-secondary">
                         We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. The logos, images and renderings might be protected by copyright owned by the builders.. Not intended to solicit those under contract with another brokerage. </span>
-                        <div class="list pt-md-5 pt-3 d-md-block d-none">
+                        <div class="list pt-md-3 pt-3 d-md-block d-none">
                             <p class="">
-                                Website designed by
-                                <a href="https://www.sixdesign.ca/" target="_blank" class="text-dark text-decoration-none"><strong>SixDesign.</strong></a>
+                            Check out all calgary pre construction homes projects on
+                                <a href="https://dolphy.ca/pre-construction-homes/calgary" target="_blank" class="text-dark text-decoration-none"><strong>Dolphy.</strong></a>
                             </p>
 
                         </div>
@@ -491,7 +491,7 @@ This location is in the Beltline neighborhood in Calgary. Nearby parks include C
 
                 <div class="list mt-5 pt-5 d-md-none d-block center-sm">
                     <p class="">
-                        Website designed by <a href="https://www.sixdesign.ca/" target="_blank" class="text-dark text-decoration-none"><strong>SixDesign.</strong</a>
+                    Check out all calgary pre construction homes projects on  <a href="https://dolphy.ca/pre-construction-homes/calgary" target="_blank" class="text-dark text-decoration-none"><strong>Dolphy.</strong</a>
                     </p>
 
                 </div>
