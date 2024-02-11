@@ -99,7 +99,7 @@
             <div class="container" id="hero">
                 <div class="row me-0 row-cols-1 row-cols-md-2 d-flex align-items-center">
                     <div class="col order-2 order-md-1 pt-5 pt-md-0">
-                        <div class="">
+                        <div class="px-2">
                             <div>
                                 <!-- <div>
                                     <h1 class="main-titlee mb-0  mt-0 mb-0 pb-0">
@@ -116,11 +116,11 @@
                                         $749.9k - High $949.9k
                                     </h3> -->
                                     <h1 class=" fw-bold center-sm main-title">Lincoln Tower Condo Calgary</h1>
-                                    <h2 class="headline-textt headline-textt-sm pb-3 fw-bold fs-5 center-sm">Pricing starting from High<span style="color:red;"> $400's</span> </h2>
+                                    <h2 class="headline-textt headline-textt-sm pb-3 fw-bold fs-5 center-sm mt-0">Pricing starting from High<span style="color:black;"> $400's</span> </h2>
                                     <h2 class="headline-textt headline-textt-sm">
 
                                         <span class="fw-bold">Lincoln Condos</span>, a development by Truman Homes, is an upcoming condos in the heart of Downtown Calgary, located on 11 Avenue Southwest and 2 Street Southwest. this development promises to redefine the urban living experience. Towering at an impressive 37 stories, Lincoln Tower will showcase a total of 274 mixed units, featuring a diverse array of one-bedroom, two-bedroom, and three-bedroom layouts.
-                                        <div class="list d-block headline-textt pt-4">
+                                        <div class="list d-block headline-textt pt-3">
                                             <p class="mybot pb-md-0 pb-0 ">
                                                 Builder: Truman Homes
                                             </p>
@@ -150,11 +150,11 @@
             <div class="container">
                 <div class="my-md-5 my-5"></div>
                 <div class="pt-md-5 pt-5">
-                    <h2 class="fw-bold fs-1 pb-2  ps-3 ps-md-0 d-flex justify-content-center custom-underline brand-color">
+                    <h2 class="fw-bold fs-1   ps-3 ps-md-0 d-flex justify-content-center custom-underline brand-color ">
                         Model and Renderings
                     </h2>
 
-                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3"> See the beautiful inside of Lincoln Tower Condo Calgary</span>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-5"> See the beautiful inside of Lincoln Tower Condo</span>
                     <div>
                         <section>
                             <div class="rounded-3">
@@ -208,11 +208,12 @@
                 <h2 class="fw-bold fs-1 pb-4 ps-3 ps-md-0 d-flex justify-content-center brand-color center-sm">
                     Details About Lincoln Condos in Calgary
                 </h2>
-                <p class="textt justify-content-center brand-color center-sm text-center pb-2 fs-3 px-1">
+                <p class="textt justify-content-center brand-color center-sm text-center pb-2 fs-4 px-2 ">
+                    <span>
                     Lincoln Tower Condos in Calgary is a brand New Pre-construction condo development by Truman Homes, Located at 11 Avenue Southwest and 2 Street Southwest in Calgary.
-                </p>
+                    </span> </p>
             </div>
-            <div class="d-flex justify-content-center text-center textt fs-3 px-1">
+            <div class="d-flex justify-content-center text-center textt  fs-4 px-1">
                 <div class="list d-block ">
                     <p class="mybot pb-md-0 pb-0 ">
                         <span class="fw-bold">Developer:</span> Truman Homes.
@@ -291,7 +292,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col d-flex justify-content-center align-items-center">
+                <div class="col d-flex justify-content-center ">
                     <div class=" pt-4 mt-4 mt-md-0">
                         <h2 class="fw-bold fs-2 ex-boldd center-sm">
                             INCENTIVES
@@ -425,7 +426,7 @@
                 </div>
             </div>
             <div class="pt-4 ">
-                <span class="small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-3 px-2 ">(Lincoln Tower Condo Calgary)
+                <span class="small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-4 px-2 ">(Lincoln Tower Condo Calgary)
                     11th Ave and 2nd Street, Calgary has a Walk Score of 98 out of 100. This location is a Walker’s Paradise so daily errands do not require a car.
 
                     This location is a 10 minute walk from the 201 Red Line - Somerset - Bridlewood/Tuscany CTrain and the 202 Blue Line - Saddletowne/69 Street CTrain at the EB 3 Street SW Station (TD Free Fare Zone) stop.
@@ -524,6 +525,15 @@
     <div class="mt-5 pt-3">
         <img loading="lazy" src="images/line.png" alt="Line image for character" class="img-fluid foot-up-img" />
     </div>
+
+    <div class="floating fixxcont2 mb-3">
+        <a href="#Contact" class="btn bgggggggg br-m d-block d-md-none w-100 py-2 shadow-lg">Send a message  
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chat-left-dots" viewBox="0 0 16 16">
+                <path d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1h12zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z"></path><path d="M5 6a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z">
+                </path>
+            </svg>
+            </a>
+        </div>
     <footer class="footerr  py-5 mb-4">
         <div class="container ">
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
@@ -541,7 +551,7 @@
 
                     </div>
                 </div>
-                <div class="col-md-4 py-md-5 py-5 center-sm px-md-5 px-5 ">
+                <div class="col-md-5 py-md-5 py-5 center-sm px-md-5 px-5 ">
                     <div>
                         <h5 class="text-dark fw-bold mt-3 mb-3 ">About Lincoln Condos</h5>
                         <div class="list d-block ">
@@ -550,7 +560,7 @@
                             </p>
 
                             <p class="mybot pb-md-0 pb-0 ">
-                                Address : 11th Ave and 2nd Street Downtown, Calgary,
+                                Address : 11th Ave and 2nd Street Downtown, Calgary
                             </p>
                             <p class="mybot pb-md-0 pb-0 ">
                                 Building Type : condos
@@ -568,8 +578,8 @@
             </div>
 
             <div class="list mt-5 pt-5 d-md-none d-block center-sm">
-                <p class="fw-bold">
-                    <strong>Check out all calgary pre construction homes projects on <a href="https://dolphy.ca/pre-construction-homes/calgary" target="_blank" class="text-dark text-decoration-none">Dolphy.</strong< /a>
+                <p class="fw-bold px-2">
+                <a href="https://dolphy.ca/pre-construction-homes/calgary" target="_blank" class="text-dark text-decoration-none"> <strong>Check out all calgary pre construction homes projects on Dolphy.</strong></a>
                 </p>
 
             </div>
