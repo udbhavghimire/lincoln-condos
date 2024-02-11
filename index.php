@@ -17,7 +17,7 @@
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
     <title>Lincoln Tower Condo Calgary | Starting from $400s - Register Today</title>
-    <meta name="title" content="Lincoln Tower Condo Calgary | Starting from $500s - Register Today">
+    <meta name="title" content="Lincoln Tower Condo Calgary | Starting from High $400's - Register Today">
     <meta name="description" content="Lincoln Tower Condo Calgary, a development by Truman Homes, is an upcoming condos in Calgary, located on 11 Avenue Southwest and 2 Street Southwest. The project is expected to be completed in 2028.">
     <meta name="keywords" content="Lincoln Tower Condos, Lincoln Condos, Lincoln Tower Condo Calgary, Condos in Calgary, Lincoln Condos Truman Homes, Truman Homes">
     <meta name="robots" content="index, follow">
@@ -116,7 +116,7 @@
                                         $749.9k - High $949.9k
                                     </h3> -->
                                     <h1 class=" fw-bold center-sm main-title">Lincoln Tower Condo Calgary</h1>
-                                    <h2 class="headline-textt headline-textt-sm pb-3 fw-bold fs-5 center-sm">Pricing starting from low <span style="color:red;"> $400's</span> </h2>
+                                    <h2 class="headline-textt headline-textt-sm pb-3 fw-bold fs-5 center-sm">Pricing starting from High<span style="color:red;"> $400's</span> </h2>
                                     <h2 class="headline-textt headline-textt-sm">
 
                                         <span class="fw-bold">Lincoln Condos</span>, a development by Truman Homes, is an upcoming condos in the heart of Downtown Calgary, located on 11 Avenue Southwest and 2 Street Southwest. this development promises to redefine the urban living experience. Towering at an impressive 37 stories, Lincoln Tower will showcase a total of 274 mixed units, featuring a diverse array of one-bedroom, two-bedroom, and three-bedroom layouts.
@@ -228,7 +228,7 @@
                     </p>
 
                     <p class="mybot pb-md-0 pb-0 ">
-                        <span class="fw-bold"> Pricing: </span>Starting from the $400's!
+                        <span class="fw-bold"> Pricing: </span>Starting from the High $400's!
                     </p>
                     <p class="mybot pb-md-0 pb-0 ">
                         <span class="fw-bold"> Number of Units:</span> 227
